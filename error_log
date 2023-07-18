@@ -1,0 +1,1 @@
+[13-Jun-2022 10:46:02 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home/disdikta/public_html/system/libraries/Image_lib.php on line 1466
